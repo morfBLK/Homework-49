@@ -12,3 +12,4 @@ function drawChessboard(size:number) {
     }
 }
 
+console.log(drawChessboard(8));
